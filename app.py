@@ -107,5 +107,4 @@ if st.button("スキャン開始", use_container_width=True):
         
         st.success(f"スキャン完了: {datetime.now().strftime('%H:%M:%S')}")
 
-st.markdown("---")
-st.caption("💡 50Ω/75Ωの切替が必要な変換ツール同様、現場での迅速な判断にご活用ください。")
+
